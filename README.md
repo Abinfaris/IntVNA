@@ -27,14 +27,6 @@ The workbook contains two sheets.
 - Measurement Data contains one row per measured frequency and 17 result columns. The RF calculations are saved as values, so the results are ready to review, filter, or plot.
 
 
-| Result | What the workbook includes |
-
-| --- | --- |
-| Frequency | Frequency in Hz and MHz |
-| S11 reflection | Real and imaginary components, linear magnitude, magnitude in dB, and phase in degrees |
-| Matching and impedance | Return loss in dB, VSWR, resistance in Ω, reactance in Ω, and Q factor (\|X/R\|). Impedance is calculated using a 50 Ω reference. |
-| S21 forward transmission | Real and imaginary components, linear magnitude, magnitude in dB, and phase in degrees, when available |
-
 The Excel file exports the full Results Table for the current sweep. It does not export every dashboard plot.
 Sample Excel report
 
